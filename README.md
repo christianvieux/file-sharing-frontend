@@ -1,6 +1,6 @@
 # File Sharing Frontend
 The web interface for the file sharing application. Built with Next.js, this frontend provides a clean UI for uploading and downloading files.
-## 🌐 Live App
+## Live App 🌐
 Visit the live application [here.](https://files.projects.christianvieuxdev.com/home)
 ## Tech Stack
 - **Next.js 15** - React framework
@@ -47,6 +47,5 @@ The app will be available at `http://localhost:3000` (or your specified port). I
 - Secure file downloading
 - Temporary file links
 - Modern, responsive UI
-## 📂 Related Repositories
-- [Main Project (Monorepo)](https://github.com/christianvieux/GA_Project_Final_File-Sharing-App)
+## Related Repositories 📂
 - [Backend API](https://github.com/christianvieux/file-sharing-api)
